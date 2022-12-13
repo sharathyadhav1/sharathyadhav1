@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter and AWS**
 
-- 💬 Ask me about **MVI,MVVM,MVC Best practice CleanArchitecture**
+- 💬 Ask me about **Android ,Kotlin ,Jetpack Components,MVI,MVVM,MVC Best practice CleanArchitecture**
 
 - 📫 How to reach me **sharathyadhav@hotmail.com**
 
